@@ -1,7 +1,13 @@
-# HR-Analytics-Retention-Modeling
+# HR Analytics: Retention Modeling
 
-Profiles and preprocesses employee turnover data to support predictive modeling and retention strategy development. Enables workforce risk analysis using structured HR variables and cleaned data.
+This project profiles and preprocesses employee turnover data to build a foundation for predictive modeling and workforce retention analysis. It enhances data quality through cleaning, validation, and profiling to enable reliable insights into employee behavior and attrition trends.
 
+The project supports data-driven HR strategy development by:
+- Ensuring data integrity and consistency across employee records  
+- Preparing structured HR variables suitable for statistical and machine learning models  
+- Enabling workforce risk analysis through exploratory data profiling and visualization  
+
+This repository includes the full data preparation workflow, from initial profiling to cleaned dataset output, supporting future retention modeling and predictive analytics.
 ---
 
 ## Project Scope
