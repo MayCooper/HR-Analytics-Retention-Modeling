@@ -7,7 +7,6 @@ The project supports data-driven HR strategy development by:
 - Preparing structured HR variables suitable for statistical and machine learning models  
 - Enabling workforce risk analysis through exploratory data profiling and visualization  
 
-This repository includes the full data preparation workflow, from initial profiling to cleaned dataset output, supporting future retention modeling and predictive analytics.
 ---
 
 ## Project Scope
